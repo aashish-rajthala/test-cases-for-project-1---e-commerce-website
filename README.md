@@ -1,6 +1,6 @@
 # Manual Testing Project - Opencart (E-commerce Website)
 
-## Project Overview Practice Project
+## Project Overview 
 This repository contains the manual test cases for the Opencart e-commerce website, covering multiple core modules in one consolidated table.
 
 - **Project Name:** Opencart (E-commerce)
